@@ -20,3 +20,4 @@
 a = "我们"
 b = "我马上"
 print(len(a)+len(b))
+p
